@@ -1,5 +1,5 @@
 import { cons } from '@hexlet/pairs';
-import { random, randomElement, gameLaunch } from '../index';
+import { random, randomElement, gameLaunch } from '../index.js';
 
 const calculate = (operator, num1, num2) => {
   switch (operator) {

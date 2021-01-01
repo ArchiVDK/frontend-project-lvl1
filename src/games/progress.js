@@ -1,5 +1,5 @@
 import { cons } from '@hexlet/pairs';
-import { random, randomElement, gameLaunch } from '../index';
+import { random, randomElement, gameLaunch } from '../index.js';
 
 const createProgression = (start, diff, length) => {
   const res = [];

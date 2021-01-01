@@ -1,5 +1,5 @@
 import { cons } from '@hexlet/pairs';
-import { random, gameLaunch } from '../index';
+import { random, gameLaunch } from '../index.js';
 
 const isPrime = (num) => {
   const iter = (divisor) => {

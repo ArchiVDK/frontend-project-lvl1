@@ -1,5 +1,5 @@
 import { cons } from '@hexlet/pairs';
-import { random, gameLaunch } from '../index';
+import { random, gameLaunch } from '../index.js';
 
 const findGcd = (number1, number2) => {
   if ((number2 - number1) === 0) {
