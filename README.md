@@ -26,6 +26,7 @@ $ brain-calc
 ## Greatest common divisor
 
 ```
+
 $ brain-gcd
 ```
 
